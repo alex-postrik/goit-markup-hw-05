@@ -748,7 +748,7 @@ ul {
   visibility: visible;
   pointer-events: initial;
 
-  transition: opacity 700ms ease-in, visibility 700ms ease-in;
+  transition: opacity 400ms ease-in, visibility 700ms ease-in;
 }
 
 .backdrop.is-hidden {
